@@ -4,4 +4,6 @@ from ExampleFunctionDocumentation import *
 
 if __name__=="__main__":
     a = 1
-    print(functionName(a, False))
+    
+    #Hover met je muis over functionName!
+    print( functionName(a, False) )
